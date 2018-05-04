@@ -15,5 +15,5 @@ spring:
           content-type: application/json
   data:
     mongodb:
-      host: 218.38.15.73
+      host: 218.38.15.93
       port: 27017
