@@ -11,4 +11,11 @@ spring:
           destination: learning-spring-boot-comments
           group: comments-service
           content-type: application/json
+  data:
+    mongodb:
+      host: 218.38.15.93
+      port: 27017
+  rabbitmq:
+    host: 218.38.15.73
+    port: 30672 
   
