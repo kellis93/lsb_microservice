@@ -13,3 +13,7 @@ spring:
           destination: learning-spring-boot-chat
           group: comments-chat
           content-type: application/json
+  data:
+    mongodb:
+      host: 218.38.15.73
+      port: 27017
